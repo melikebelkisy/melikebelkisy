@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Melike</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
-# 💫 About Me:
+#  About Me:
 <br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
 
