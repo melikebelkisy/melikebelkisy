@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
 #  About Me:
-<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact <br>👨‍💻 All of my projects are available at [220130044.tbmyoweb.name](220130044.tbmyoweb.name)
+<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact <br>👨‍💻 All of my projects are available at [220130044.tbmyoweb.name](https://220130044.tbmyoweb.name/index.html)
 
 
 ## 🌐 Socials:
